@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My programs\\projects\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\Projects\\FullStack\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\My programs\\projects\\DatingApp\\API\\API.csproj",
+      "projectPath": "D:\\Projects\\FullStack\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\My programs\\projects\\DatingApp\\API\\obj\\",
+      "outputPath": "D:\\Projects\\FullStack\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
