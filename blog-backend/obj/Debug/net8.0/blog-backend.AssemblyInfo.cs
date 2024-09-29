@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blog-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+764c4022931902bb6924f9b99b6c80820f3b7386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db59dce7cc8d55ab5d6ac765cee1614cd3f8541d")]
 [assembly: System.Reflection.AssemblyProductAttribute("blog-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blog-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
